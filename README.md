@@ -87,10 +87,7 @@ Assignment 2</h2>
 
 
 
-</main>
 <footer><small><i>
 Copyright &copy; 2020 Angel Ferguson
 </i></small></footer>
-</div>
-</body>
-</html>
+

@@ -5,9 +5,6 @@
 
 <head>
 <link rel="icon" href="marker.gif" type="image/icon">
-<title>
-Angel Assignment Sheet
-</title>
 
 <meta charset="utf-8">
 <link rel="stylesheet" href="assignsheet4.css">

@@ -1,0 +1,17 @@
+body	{background-color: #97C3DA; color: #09202B;}
+
+header	{background-image: url(sunset.jpg); background-position: right; background-repeat:no-repeat; background-color:#0D1F76 ; color: #D8AE57}
+
+nav	{background-color:#BBDEFB;}
+
+h1	{margin-bottom: 0;}
+
+h2	{color:#09202B}
+
+dt	{color:#002171}
+
+ul	{color:#002171}
+
+footer	{background-color:#D8AE57; color:black;}
+
+.resort	{color: #002171;}

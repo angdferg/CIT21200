@@ -1,0 +1,29 @@
+nav	{background-color: #424949;font-family: Onyx; word-spacing: 4em;margin-top: 0px; margin-left: -0.6%; margin-right: -0.6%;letter-spacing: 3px; color: #FFFFFF; font-size:20px; height:30px}
+
+h3	{float: left; writing-mode: vertical-lr;text-orientation: upright; margin-left: -0.6%; font-family:Perpetua Titling MT; letter-spacing:45px ;background-color:#000000; height: 47.8em; width: 3%; margin-top: 0%;margin-bottom: 0%;color: #FFFFFF;font-size:20px;text-align: center; padding-bottom: 2px}
+
+h2	{margin-left: 10%;width: 48%; font-size: 25px; font-family:Lucida 	Bright; text-align: center; background-color:#000000;color:	#FFFFFF;font-size: 20px}
+
+h1	{font-family:Perpetua Titling MT; letter-spacing:50px ;background-color:#000000; height: 100px;color: #FFFFFF;font-size:20px;text-align: center; font-size
+: 40px; margin: 0%; margin-left: -0.6%; margin-right: -0.6%}
+
+p	{margin-left:10%;width: 48%;line-height: 30px; font-size: 8px; font-family: 	Lucida Fax}
+
+footer	{font-family: Dotum; background-color: #FFFFFF; margin-bottom: -0.6%; margin-left:-0.6%; margin-right:-0.6%; margin-top:1%}
+
+div	{height: 100px}
+body	{background-color:#D9D9DB}
+
+.image	{float:right; width: 30%;width:450px; height:600px; margin-top: 10%}
+
+.accent	{float:right;width:50px; height:40px}
+
+.accentop	{float:right;width:50px; height:40px; margin-top:-1px}
+
+a {color: inherit; text-decoration: none}
+
+body	{margin-bottom: -0.1%; margin-top:-0.1%; background-color: #E0E0E0}
+
+.credit	{float:right; font-size: 5px; margin-top: -14%; margin-right: 10%}
+
+li	{margin-left:10%; width: 48%;line-height: 30px; font-size: 8px; font-family: Lucida Fax;}
